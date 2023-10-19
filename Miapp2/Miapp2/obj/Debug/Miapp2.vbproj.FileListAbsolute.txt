@@ -1,0 +1,12 @@
+C:\Users\labf\source\repos\Miapp2\Miapp2\obj\Debug\Miapp2.vbprojAssemblyReference.cache
+C:\Users\labf\source\repos\Miapp2\Miapp2\obj\Debug\Miapp2.Form1.resources
+C:\Users\labf\source\repos\Miapp2\Miapp2\obj\Debug\Miapp2.Resources.resources
+C:\Users\labf\source\repos\Miapp2\Miapp2\obj\Debug\Miapp2.vbproj.GenerateResource.cache
+C:\Users\labf\source\repos\Miapp2\Miapp2\obj\Debug\Miapp2.vbproj.CoreCompileInputs.cache
+C:\Users\labf\source\repos\Miapp2\Miapp2\bin\Debug\Miapp2.exe.config
+C:\Users\labf\source\repos\Miapp2\Miapp2\bin\Debug\Miapp2.exe
+C:\Users\labf\source\repos\Miapp2\Miapp2\bin\Debug\Miapp2.pdb
+C:\Users\labf\source\repos\Miapp2\Miapp2\bin\Debug\Miapp2.xml
+C:\Users\labf\source\repos\Miapp2\Miapp2\obj\Debug\Miapp2.exe
+C:\Users\labf\source\repos\Miapp2\Miapp2\obj\Debug\Miapp2.xml
+C:\Users\labf\source\repos\Miapp2\Miapp2\obj\Debug\Miapp2.pdb
